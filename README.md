@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Vidotto
+## Lucas Vidotto
  <div>
   <a href="https://github.com/LucasVidotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVidotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
