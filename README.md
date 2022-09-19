@@ -6,20 +6,20 @@
 </div>
 <div style="display: inline_block"><br>
 <span> Skills:</span>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React/Redux" height="30" width="40" src="https://skillicons.dev/icons?i=redux" />
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" />
-  <img align="center" alt="Express" height="30" width="40" src="https://skillicons.dev/icons?i=express" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://skillicons.dev/icons?i=flutter" />
-  <img align="center" alt="Jean-MYSQL" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Jean-Postgresql" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Jean-Python" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"/>
-  <img align="center" alt="nestjs" height="30" width="40" src="https://skillicons.dev/icons?i=nestjs" />
-  <img align="center" alt="nextjs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs" />
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React/Redux" height="40" width="50" src="https://skillicons.dev/icons?i=redux" />
+  <img align="center" alt="NodeJs" height="40" width="50" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="center" alt="Express" height="40" width="50" src="https://skillicons.dev/icons?i=express" />
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Flutter" height="40" width="50" src="https://skillicons.dev/icons?i=flutter" />
+  <img align="center" alt="MYSQL" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Postgresql" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Python" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"/>
+  <img align="center" alt="nestjs" height="40" width="50" src="https://skillicons.dev/icons?i=nestjs" />
+  <img align="center" alt="nextjs" height="40" width="50" src="https://skillicons.dev/icons?i=nextjs" />
 </div>
   
   ##
