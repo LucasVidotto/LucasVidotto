@@ -18,6 +18,8 @@
   <img align="center" alt="Jean-MYSQL" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Jean-Postgresql" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Jean-Python" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"/>
+  <img align="center" alt="nestjs" height="30" width="40" src="https://skillicons.dev/icons?i=nestjs" />
+  <img align="center" alt="nextjs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs" />
 </div>
   
   ##
