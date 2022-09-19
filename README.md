@@ -1,7 +1,7 @@
 ## Lucas Vidotto
  <div>
   <a href="https://github.com/LucasVidotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVidotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvidotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
 <div style="display: inline_block"><br>
