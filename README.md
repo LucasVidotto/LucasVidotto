@@ -6,7 +6,7 @@
    
    <h1>TOP LANGS</h1>
    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVidotto&layout=compact)](https://github.com/lucasvidotto/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVidotto&layout=compact)](https://github.com/LucasVidotto/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
 <span> Skills:</span>
