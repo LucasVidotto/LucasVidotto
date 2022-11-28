@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/LucasVidotto">
   
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVIdotto&show_icons=true&hide=issues,stars&theme=dark)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVIdotto&show_icons=true&hide=issues,stars&theme=onedark)
 </div>
 <div style="display: inline_block"><br>
 <span> Skills:</span>
