@@ -3,6 +3,8 @@
   <a href="https://github.com/LucasVidotto">
   
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVIdotto&show_icons=true&hide=issues,stars&theme=highcontrast)
+##TOP LANGS
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVidotto&layout=compact)](https://github.com/LucasVidotto/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
 <span> Skills:</span>
