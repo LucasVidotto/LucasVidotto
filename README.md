@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/LucasVidotto">
   
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVIdotto&show_icons=true&hide=issues,stars&theme=highcontrast)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvidotto&show_icons=true&hide=issues,stars&theme=highcontrast)
    
    <h1>TOP LANGS</h1>
    
