@@ -5,6 +5,7 @@
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvidotto&show_icons=true&hide=issues,stars&theme=highcontrast)
    
    <h1>TOP LANGS</h1>
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVidotto&layout=compact)](https://github.com/LucasVidotto/github-readme-stats)
  
 </div>
