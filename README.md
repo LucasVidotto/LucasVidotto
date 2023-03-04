@@ -6,6 +6,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVidotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
+  
+ ## Ferramentas e Tecnologias
 <span> Skills:</span>
   <img align="center" alt="Js" height="40" width="50" title="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
