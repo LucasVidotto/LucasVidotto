@@ -1,14 +1,9 @@
 # Olá, me chamo Lucas Vidotto ! 
 ## Hello, Devs!!👋
- <div>
-  <a href="https://github.com/LucasVidotto">
-  
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvidotto&show_icons=true&hide=issues,stars&theme=highcontrast)
-   
-   <h1>TOP LANGS</h1>
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVidotto&layout=compact)](https://github.com/LucasVidotto/github-readme-stats)
- 
+<div>
+<a href="https://github.com/LucasVidotto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVidotto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVidotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
 <span> Skills:</span>
